@@ -1,0 +1,27 @@
+# 构建产物
+build/
+dist/
+toolchain/
+
+# 二进制
+*.exe
+*.dll
+*.o
+*.obj
+*.res
+*.lib
+*.a
+
+# 编译中间文件
+*.co2.c
+*.s
+*.i
+
+# 用户配置
+*.ini
+co2cxx.ini
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini
